@@ -70,7 +70,7 @@ print("-" * 50)
 
 print(f"Name product:     {Name_product}")
 print(f"Price product:    ${Price:.2f}")
-print(f"Product quantity: ${Quantity} pza(s)")
+print(f"Product quantity:  {Quantity} pza")
 print("-" * 50)
 
 #-----------------------------------------------------------
